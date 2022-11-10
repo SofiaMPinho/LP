@@ -547,7 +547,7 @@ n_perm_um([PermPoss | _]) :-
 
 %----------------------------------------------------------------
 %                       resolve(Puzzle)
-% Resolve o Puzzle, isto e, apos a sua invocacaoa grelha de
+% Resolve o Puzzle, isto e, apos a sua invocacao grelha de
 % Puzzle tem todas as variaveis substituidas por numeros que
 % respeitam as restricoes Puzzle
 %----------------------------------------------------------------
